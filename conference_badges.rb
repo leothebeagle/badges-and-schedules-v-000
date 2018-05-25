@@ -26,3 +26,4 @@ def printer(speakers)
     puts room_assignment
   end
 end
+binding.pry
